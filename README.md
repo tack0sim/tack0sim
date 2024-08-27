@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tack0sim
+- 👋 Hi, I’m Talha
 - 👀 I’m interested in Frontend dev
 - 🌱 I’m currently in training to be a software engineer in Germany
 - 💞️ I’m looking to collaborate on beginner web dev projects
